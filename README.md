@@ -3,7 +3,7 @@
 This project explores global population data to analyze patterns across countries and continents. The goal is to understand how population size, density, and land area vary around the world and to extract meaningful insights using data analysis and visualization.
 The analysis focuses on identifying trends in population distribution, comparing continents, and examining relationships between population, density, and geographic area.
 
-#Dataset
+## Dataset
 The dataset used in this project is World Population Insights, obtained from Kaggle.
 
 It includes information about:
@@ -14,7 +14,7 @@ It includes information about:
 -land area
 -growth indicators
 
-#Tools and Technologies
+## Tools and Technologies
 
 -The project was completed using:
 -Python
@@ -23,7 +23,7 @@ It includes information about:
 -Matplotlib (data visualization)
 -Jupyter Notebook
 
-#Data Analysis Steps
+## Data Analysis Steps
 
 Data Cleaning
 
@@ -51,7 +51,7 @@ Visualizations
 These visualizations help reveal patterns and differences in population characteristics across regions
 
 
-#Key Insights
+## Key Insights
 
 -Global population distribution is highly skewed, with a few countries having extremely large populations.
 -Asia contains the majority of the world's population.
