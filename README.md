@@ -1,4 +1,4 @@
-#World Population Insights
+## World Population Insights
 
 This project explores global population data to analyze patterns across countries and continents. The goal is to understand how population size, density, and land area vary around the world and to extract meaningful insights using data analysis and visualization.
 The analysis focuses on identifying trends in population distribution, comparing continents, and examining relationships between population, density, and geographic area.
